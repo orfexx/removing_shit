@@ -1,6 +1,6 @@
 🧹 App Remover (Interactive Windows Debloater)
 
-App Remover is a lightweight interactive batch script for Windows that allows you to quickly remove annoying, bundled, or unwanted software from your system — without installing anything.
+App Remover is a lightweight interactive batch script for Windows that allows you to quickly remove annoying, bundled, or unwanted software from your system without installing anything.
 
 Instead of digging through Control Panel, this tool gives you a simple menu where you choose what to remove.
 
@@ -28,9 +28,7 @@ Driver Booster (IObit)
 
 Cleans leftover folders after uninstall
 
-Does not touch Adobe software
-
-Portable — just one .bat file
+Portable just one .bat file
 
 No background services, no telemetry, no autostart
 
